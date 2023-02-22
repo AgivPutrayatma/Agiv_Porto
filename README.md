@@ -1,5 +1,6 @@
 # Agiv_Porto
-## My 1st Portofolio : Smartwatch Data Analysis using Python (https://gist.github.com/AgivPutrayatma) or (https://colab.research.google.com/drive/1KAxooWas6PZEU_b74MUa0ewh61w-izm0#scrollTo=Vc8sIy6gGh9k)
+## My 1st Portofolio : Smartwatch Data Analysis using Python 
+(https://gist.github.com/AgivPutrayatma) or (https://colab.research.google.com/drive/1KAxooWas6PZEU_b74MUa0ewh61w-izm0#scrollTo=Vc8sIy6gGh9k)
 
 This is projectd where I analyze smartwatch data that I got from kaggle (https://www.kaggle.com/datasets/arashnic/fitbit)
 1.  81.3% of Total inactive minutes in a day
